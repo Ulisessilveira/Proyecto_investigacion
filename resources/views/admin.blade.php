@@ -1,0 +1,7 @@
+@extends('layouts.main')
+@section('contenido')
+<!-- Page Heading -->
+    <div class="d-sm-flex align-items-center justify-content-between mb-4">
+        <h1 class="h3 mb-0 text-gray-800">Eres un admin</h1>
+    </div>
+@endsection
