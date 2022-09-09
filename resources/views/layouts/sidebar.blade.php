@@ -43,7 +43,7 @@
         <li class="nav-item">
             <a class="nav-link" href="/proyectos/agregar_proyecto">
                 <i class="fas fa-fw fa-file"></i>
-                <span>Crear proyecto</span>
+                <span>Proyectos</span>
             </a>
         </li>
         <li class="nav-item">
@@ -55,7 +55,7 @@
         <li class="nav-item">
             <a class="nav-link" href="/proyectos/consultar_proyectos">
                 <i class="fas fa-fw fa-archive"></i>
-                <span>Consulatar proyecto</span>
+                <span>Consultar proyecto</span>
             </a>
         </li>
         <!-- Sidebar Toggler (Sidebar) -->
