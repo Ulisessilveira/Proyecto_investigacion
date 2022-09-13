@@ -26,6 +26,9 @@ Route::group(['prefix'=>'home','as'=>'home'],function(){
 Route::group(['prefix'=>'admin','as'=>'admin'],function(){
     Route::get('/', 'AdminController@index');
     Route::get('/usuarios', 'UserController@index');
+    Route::get('/perfil', 'PerfilController@index');
+   
+
     Route::post('/usuarios/edit', 'UserController@editarUsuario');
     Route::resource('usuarios', 'UserController');
 });

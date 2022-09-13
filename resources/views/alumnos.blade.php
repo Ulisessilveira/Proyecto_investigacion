@@ -27,7 +27,7 @@
                         <td>{{$usuarios->email}}</td>
                         <td>{{$usuarios->nivel}}</td>
                         <td>
-                            <button type="button" class="btn text-white" style="background-color: #4B0082">+</button>
+                            <button type="button" class="btn text-white"    >+</button>
                         </td> 
                     </tr>
                 @endforeach
